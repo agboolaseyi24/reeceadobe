@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>true</is_extendable>
+        <label>Reece Adobe License Record</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+        <number_ref display_value="ADB">4d6a6b80db762110925b0ef2e296192e</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">dd3a4739e821211076da10591ad28741</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 22:02:05</sys_created_on>
+        <sys_id>a46a2b80db762110925b0ef2e29619f4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Reece Adobe License Record</sys_name>
+        <sys_package display_value="Reece Adobe License Record" source="x_908091_reece_a_0">b81c3608dbb22110925b0ef2e29619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reece Adobe License Record">b81c3608dbb22110925b0ef2e29619aa</sys_scope>
+        <sys_update_name>sys_db_object_a46a2b80db762110925b0ef2e29619f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 22:02:07</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
