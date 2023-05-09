@@ -168,6 +168,62 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>identify_type</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 23:43:24</sys_created_on>
+            <sys_id>b4918418dbb62110925b0ef2e2961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_908091_reece_a_0_reece_adobe_license_record" sys_domain="global" view="Default view">5a7a6b80db762110925b0ef2e29619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 23:43:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>license_owner</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 23:45:36</sys_created_on>
+            <sys_id>c9128c18dbb62110925b0ef2e296195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_908091_reece_a_0_reece_adobe_license_record" sys_domain="global" view="Default view">5a7a6b80db762110925b0ef2e29619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 23:45:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>adobe_product</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 23:46:47</sys_created_on>
+            <sys_id>da52c058dbb62110925b0ef2e2961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_908091_reece_a_0_reece_adobe_license_record" sys_domain="global" view="Default view">5a7a6b80db762110925b0ef2e29619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 23:46:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ritm_number</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 23:49:59</sys_created_on>
+            <sys_id>dd130098dbb62110925b0ef2e2961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_908091_reece_a_0_reece_adobe_license_record" sys_domain="global" view="Default view">5a7a6b80db762110925b0ef2e29619b0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 23:49:59</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="license_owner" label="License Owner" language="en" table="x_908091_reece_a_0_reece_adobe_license_record">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>license_owner</element>
+            <help/>
+            <hint/>
+            <label>License Owner</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <plural>License Owners</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-09 23:45:37</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>License Owner</sys_name>
+            <sys_package display_value="Reece Adobe License Record" source="x_908091_reece_a_0">b81c3608dbb22110925b0ef2e29619aa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Reece Adobe License Record">b81c3608dbb22110925b0ef2e29619aa</sys_scope>
+            <sys_update_name>sys_documentation_x_908091_reece_a_0_reece_adobe_license_record_license_owner_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-09 23:45:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

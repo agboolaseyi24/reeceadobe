@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a46a2b80db762110925b0ef2e29619f4" extends="task" label="Reece Adobe License Record" max_length="40" name="x_908091_reece_a_0_reece_adobe_license_record" type="collection"/>
+    <element db_object_id="a46a2b80db762110925b0ef2e29619f4" extends="task" label="Reece Adobe License Record" max_length="40" name="x_908091_reece_a_0_reece_adobe_license_record" type="collection">
+        <element choice="1" label="Adobe Product" max_length="40" name="adobe_product" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Adobe Standard" sequence="100" value="Adobe Standard"/>
+                <element inactive_on_update="false" label="Adobe Pro" sequence="200" value="Adobe Pro"/>
+            </choice>
+        </element>
+        <element default="Federated ID" label="Identify Type" max_length="40" name="identify_type" read_only="true" type="string"/>
+        <element label="License Owner" max_length="32" name="license_owner" reference="sys_user" type="reference"/>
+        <element label="RITM Number" max_length="32" name="ritm_number" reference="sc_req_item" type="reference"/>
+    </element>
 </database>
