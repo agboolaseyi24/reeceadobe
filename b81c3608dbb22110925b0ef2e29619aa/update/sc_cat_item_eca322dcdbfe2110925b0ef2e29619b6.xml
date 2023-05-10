@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="INSERT_OR_UPDATE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category display_value="Software">2809952237b1300054b6a3549dbe5dd4</category>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p>Available products and pricing are listed below. Each license assigned is prorated on a monthly basis.</p>
+<ul style="list-style-position: inside;"><li style="list-style-type: none;">
+<ul style="list-style-position: inside;"><li>Acrobat Pro DC - $171</li><li>Acrobat Standard DC - $145</li><li>InDesign - $392</li><li>Illustrator - $392</li><li>Photoshop - $392</li><li>Premiere - $392</li><li>Creative Cloud (All Apps) - $891</li></ul>
+</li></ul>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon>1216ea10db326110925b0ef2e296196b</icon>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta>adobe, license, acrobat</meta>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Reece Adobe Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture>19192614db326110925b0ef2e29619c7</picture>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=eca322dcdbfe2110925b0ef2e29619b6&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <recurring_price>0</recurring_price>
+        <request_method/>
+        <roles/>
+        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template/>
+        <short_description>Adobe Software License request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:39:22</sys_created_on>
+        <sys_id>eca322dcdbfe2110925b0ef2e29619b6</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Reece Adobe Request</sys_name>
+        <sys_package display_value="Reece Adobe License Record" source="x_908091_reece_a_0">b81c3608dbb22110925b0ef2e29619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reece Adobe License Record">b81c3608dbb22110925b0ef2e29619aa</sys_scope>
+        <sys_update_name>sc_cat_item_eca322dcdbfe2110925b0ef2e29619b6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 15:58:35</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow display_value="Reece adobe">08ff9398dbf26110925b0ef2e296192c</workflow>
+    </sc_cat_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=eca322dcdbfe2110925b0ef2e29619b6"/>
+    <fx_price action="delete_multiple" query="id=eca322dcdbfe2110925b0ef2e29619b6"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>eca322dcdbfe2110925b0ef2e29619b6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:39:22</sys_created_on>
+        <sys_id>2c75aa10db326110925b0ef2e29619ed</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 11:39:22</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>recurring_price</field>
+        <id>eca322dcdbfe2110925b0ef2e29619b6</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:39:22</sys_created_on>
+        <sys_id>e075aa10db326110925b0ef2e29619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 11:39:22</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#cc99cc</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>picture</file_name>
+        <hash>0ff76eea2fc0744fdbaace225566c70f0789145e8073a35db4e124a3886cc27e</hash>
+        <image_height>263</image_height>
+        <image_width>191</image_width>
+        <size_bytes>4490</size_bytes>
+        <size_compressed>4513</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:55:15</sys_created_on>
+        <sys_id>19192614db326110925b0ef2e29619c7</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-10 11:55:16</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item</table_name>
+        <table_sys_id>eca322dcdbfe2110925b0ef2e29619b6</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="picture" sys_id="19192614db326110925b0ef2e29619c7">19192614db326110925b0ef2e29619c7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:55:15</sys_created_on>
+        <sys_id>59192614db326110925b0ef2e29619c7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>6004</length>
+        <position>1</position>
+        <sys_attachment display_value="picture" sys_id="19192614db326110925b0ef2e29619c7">19192614db326110925b0ef2e29619c7</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-10 11:55:15</sys_created_on>
+        <sys_id>d9192614db326110925b0ef2e29619c7</sys_id>
+    </sys_attachment_doc>
+</record_update>
