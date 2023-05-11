@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2d17447097722110ed9038200153afca" extends="sys_import_set_row" label="Data import" max_length="40" name="x_908091_reece_a_0_data_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=3004" label="3004" max_length="40" name="u_3004" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Acrobat DC Pro" label="Acrobat DC Pro" max_length="40" name="u_acrobat_dc_pro" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adobe ID" label="Adobe ID" max_length="40" name="u_adobe_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Adobe Product" label="Adobe Product" max_length="40" name="u_adobe_product" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Default Acrobat Standard DC configuration" label="Default Acrobat Standard DC configuration" max_length="42" name="u_default_acro__configuration" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Federated ID" label="Federated ID" max_length="40" name="u_federated_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Identity Type" label="Identity Type" max_length="40" name="u_identity_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=License Owner" label="License Owner" max_length="40" name="u_license_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Matthew Graff" label="Matthew Graff" max_length="40" name="u_matthew_graff" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=morsco.com" label="morsco.com" max_length="40" name="u_morsco_com" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Notes" label="Notes" max_length="40" name="u_notes" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Parent" label="Parent" max_length="40" name="u_parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=RITM0025669" label="RITM0025669" max_length="40" name="u_ritm0025669" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Swapped adobe standard license out for an adobe Pro" label="Swapped adobe standard license out for an adobe Pro" max_length="40" name="u_swapped_adob_r_an_adobe_pro" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=tlallan@morsco.com" label="tlallan@morsco.com" max_length="40" name="u_tlallan_morsco_com" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tom Allan" label="Tom Allan" max_length="40" name="u_tom_allan" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Y" label="Y" max_length="40" name="u_y" type="string"/>
+    </element>
+</database>

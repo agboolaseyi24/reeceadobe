@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a46a2b80db762110925b0ef2e29619f4" extends="task" label="Reece Adobe License Record" max_length="40" name="x_908091_reece_a_0_reece_adobe_license_record" type="collection">
-        <element choice="1" label="Adobe Product" max_length="40" name="adobe_product" type="choice">
+    <element audit="true" db_object_id="a46a2b80db762110925b0ef2e29619f4" extends="task" label="Reece Adobe License Record" max_length="40" name="x_908091_reece_a_0_reece_adobe_license_record" type="collection">
+        <element choice="1" label="Adobe Product" max_length="40" name="adobe_product" read_only="true" type="choice">
             <choice>
+                <element inactive_on_update="false" label="Acrobat DC" sequence="0" value="Acrobat DC"/>
+                <element inactive_on_update="false" label="Acrobat DC Pro" sequence="0" value="Acrobat DC Pro"/>
+                <element inactive_on_update="false" label="Acrobat Pro DC" sequence="0" value="Acrobat Pro DC"/>
+                <element inactive_on_update="false" label="Acrobat Standard DC" sequence="0" value="Acrobat Standard DC"/>
+                <element inactive_on_update="false" label="Adobe" sequence="0" value="Adobe"/>
+                <element inactive_on_update="false" label="Adobe Creative Cloud" sequence="0" value="Adobe Creative Cloud"/>
+                <element inactive_on_update="false" label="Adobe Creative Suite" sequence="0" value="Adobe Creative Suite"/>
+                <element inactive_on_update="false" label="Adobe DC Pro" sequence="0" value="Adobe DC Pro"/>
+                <element inactive_on_update="false" label="Adobe DC Pro/InDesign" sequence="0" value="Adobe DC Pro/InDesign"/>
+                <element inactive_on_update="false" label="Adobe DC Standard" sequence="0" value="Adobe DC Standard"/>
+                <element inactive_on_update="false" label="ADOBE ILLUSTRSTOR" sequence="0" value="ADOBE ILLUSTRSTOR"/>
+                <element inactive_on_update="false" label="Adobe InDesign" sequence="0" value="Adobe InDesign"/>
+                <element inactive_on_update="false" label="Adobe Pro DC" sequence="0" value="Adobe Pro DC"/>
+                <element inactive_on_update="false" label="Adobe Pro DC and AdobeSign" sequence="0" value="Adobe Pro DC and AdobeSign"/>
+                <element inactive_on_update="false" label="Adobe Pro, Illustrator, Indesign" sequence="0" value="Adobe Pro, Illustrator, Indesign"/>
+                <element inactive_on_update="false" label="Adobe Product" sequence="0" value="Adobe Product"/>
+                <element inactive_on_update="false" label="Adobe Sign" sequence="0" value="Adobe Sign"/>
+                <element inactive_on_update="false" label="Adobe Standard DC" sequence="0" value="Adobe Standard DC"/>
+                <element inactive_on_update="false" label="Adobe Standard/InDesign" sequence="0" value="Adobe Standard/InDesign"/>
+                <element inactive_on_update="false" label="All Apps Plan" sequence="0" value="All Apps Plan"/>
+                <element inactive_on_update="false" label="Creative Cloud - All Apps Plan" sequence="0" value="Creative Cloud - All Apps Plan"/>
+                <element inactive_on_update="false" label="illustrator" sequence="0" value="illustrator"/>
+                <element inactive_on_update="false" label="InDesign" sequence="0" value="InDesign"/>
+                <element inactive_on_update="false" label="John Townsend" sequence="0" value="John Townsend"/>
+                <element inactive_on_update="false" label="PhotoShop CC" sequence="0" value="PhotoShop CC"/>
                 <element inactive_on_update="false" label="Adobe Standard" sequence="100" value="Adobe Standard"/>
                 <element inactive_on_update="false" label="Adobe Pro" sequence="200" value="Adobe Pro"/>
             </choice>

@@ -20,6 +20,481 @@
             <element>adobe_product</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Acrobat DC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:13</sys_updated_on>
+            <value>Acrobat DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Acrobat DC Pro</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:03</sys_updated_on>
+            <value>Acrobat DC Pro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Acrobat Pro DC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:13</sys_updated_on>
+            <value>Acrobat Pro DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Acrobat Standard DC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:03</sys_updated_on>
+            <value>Acrobat Standard DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:33</sys_updated_on>
+            <value>Adobe</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Creative Cloud</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:14</sys_updated_on>
+            <value>Adobe Creative Cloud</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Creative Suite</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:10</sys_updated_on>
+            <value>Adobe Creative Suite</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe DC Pro</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:22</sys_updated_on>
+            <value>Adobe DC Pro</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe DC Pro/InDesign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:22</sys_updated_on>
+            <value>Adobe DC Pro/InDesign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe DC Standard</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:23</sys_updated_on>
+            <value>Adobe DC Standard</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ADOBE ILLUSTRSTOR</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:31</sys_updated_on>
+            <value>ADOBE ILLUSTRSTOR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe InDesign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:08</sys_updated_on>
+            <value>Adobe InDesign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Pro DC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:18</sys_updated_on>
+            <value>Adobe Pro DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Pro DC and AdobeSign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:24</sys_updated_on>
+            <value>Adobe Pro DC and AdobeSign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Pro, Illustrator, Indesign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:19</sys_updated_on>
+            <value>Adobe Pro, Illustrator, Indesign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Product</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:25</sys_updated_on>
+            <value>Adobe Product</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Sign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:33</sys_updated_on>
+            <value>Adobe Sign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Standard DC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:14</sys_updated_on>
+            <value>Adobe Standard DC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adobe Standard/InDesign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:17</sys_updated_on>
+            <value>Adobe Standard/InDesign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>All Apps Plan</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:33</sys_updated_on>
+            <value>All Apps Plan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Creative Cloud - All Apps Plan</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:25</sys_updated_on>
+            <value>Creative Cloud - All Apps Plan</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>illustrator</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:24</sys_updated_on>
+            <value>illustrator</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InDesign</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:23</sys_updated_on>
+            <value>InDesign</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>John Townsend</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:20</sys_updated_on>
+            <value>John Townsend</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PhotoShop CC</label>
+            <language>en</language>
+            <name>x_908091_reece_a_0_reece_adobe_license_record</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-11 14:31:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-11 14:31:07</sys_updated_on>
+            <value>PhotoShop CC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>adobe_product</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Adobe Standard</label>
             <language>en</language>
             <name>x_908091_reece_a_0_reece_adobe_license_record</name>
