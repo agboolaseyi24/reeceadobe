@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Reece Adobe Record">2987a1e4dbfa6110925b0ef2e2961956</application>
+        <filter/>
+        <name>All Record</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-11 01:47:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4e7769e4dbfa6110925b0ef2e296190f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All Record</sys_name>
+        <sys_package display_value="Reece Adobe License Record" source="x_908091_reece_a_0">b81c3608dbb22110925b0ef2e29619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reece Adobe License Record">b81c3608dbb22110925b0ef2e29619aa</sys_scope>
+        <sys_update_name>sys_ui_module_4e7769e4dbfa6110925b0ef2e296190f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-11 01:47:18</sys_updated_on>
+        <table>x_908091_reece_a_0_reece_adobe_license_record</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
